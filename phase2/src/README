@@ -1,7 +1,7 @@
 README 
 # *the imposter summit* (Phase 2)
 
-## Usage
+# Usage
 **NOTE** Some Java.Swing elements are incompatible with Mac OS (such as problems with decoding unicode characters and
 rendering the JList cells ('unread' button)). Windows OS is recommended for usage.
 
